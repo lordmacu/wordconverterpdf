@@ -1,0 +1,27 @@
+{
+  "name": "extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "convertapi": "^1.14.0",
+    "csv-parser": "^3.0.0",
+    "docx": "^8.5.0",
+    "docx-pdf": "^0.0.1",
+    "docx4js": "^3.2.20",
+    "docxtemplater": "^3.48.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "mammoth": "^1.8.0",
+    "pandoc": "^0.2.0",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.0",
+    "pizzip": "^3.1.7"
+  }
+}
